@@ -44,8 +44,6 @@ function sumOfNprimes(n) {
   }
   return sum;
 }
-// Object Oriented JS
-
 // Phase I - Callbacks
 
 // defining the function
